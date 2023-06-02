@@ -9,6 +9,6 @@ generation:
   tagNamespacingDisabled: false
 php:
   version: 0.0.1
-  maxMethodParams: 0
+  maxMethodParams: "5"
   namespace: zostay\Speakeasy_API
   packageName: zostay/speakeasy-api
