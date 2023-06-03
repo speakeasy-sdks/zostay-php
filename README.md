@@ -12,7 +12,7 @@ To install the SDK first add the below to your `composer.json` file:
     "repositories": [
         {
             "type": "github",
-            "url": "https://github.com/speakeasy-sdks/zostay-php.git"
+            "url": "https://github.com/speakeasy-sdks/zostay-php3.git"
         }
     ],
     "require": {
