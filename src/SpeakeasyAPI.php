@@ -9,7 +9,7 @@ declare(strict_types=1);
 namespace zostay\Speakeasy_API;
 
 /**
- * SpeakeasyAPI - The Speakeasy API allows teams to manage common operations with their APIs
+ * SpeakeasyAPI - Speakeasy API: The Speakeasy API allows teams to manage common operations with their APIs
  * 
  * https://docs.speakeasyapi.dev - The Speakeasy Platform Documentation
  * 
